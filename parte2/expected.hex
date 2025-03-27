@@ -1,0 +1,63 @@
+X=A
+Y=3			A31
+W=umL;
+
+X=5;
+Y=C;		5C? <<<
+W=AonB;
+
+X=C;
+Y=9;		C92
+W=copiaA;
+
+X=3;
+Y=A;		3A9
+W=nAxnB;
+
+X=C;
+Y=5;		C5C
+W=AeBn;
+
+X=9;
+Y=C;		9C4
+W=nA;
+
+X=A;
+Y=3;		A36
+W=AenB;
+
+X=5;
+Y=C;		5C? <<<
+W=nAonB;
+
+X=C;
+Y=9;		C98
+W=AxB;
+
+X=3;
+Y=A;		3A0
+W=zeroL;
+
+X=C;
+Y=5;		C53
+W=copiaB;
+
+X=9;
+Y=C;		9CB
+W=AeB;
+
+X=A;
+Y=3;		A35
+W=nB;
+
+X=5;
+Y=C;		5C? <<<
+W=nAeBn;
+
+X=C;
+Y=9;		C9E
+W=AoB;
+
+X=3;
+Y=A;		3A7
+W=nAeB;
